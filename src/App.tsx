@@ -78,6 +78,12 @@ function App() {
       gradient: 'from-purple-500 to-pink-500'
     },
     {
+      title: 'ChatMate',
+      description: 'AI-powered, intent-based chatbot',
+      tech: ['Dialogflow', 'Rasa', 'custom solution','Intent-based NLU'],
+      gradient: 'from-blue-500 to-purple-500'
+    },
+    {
       title: 'QuizQuest',
       description: 'Java + Spring Boot full-stack quiz application with REST APIs, database, and Spring Security.',
       tech: ['Java', 'Spring Boot', 'REST APIs', 'Spring Security'],
